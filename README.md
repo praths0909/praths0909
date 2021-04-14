@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pratham
 - 👀 I’m interested in sports and learning new things
-- 🌱 I’m currently learning python and realted libraries
+- 🌱 I’m currently learning python and related libraries
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
