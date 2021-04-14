@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praths0909
+- 👋 Hi, I’m pratham
 - 👀 I’m interested in sports and learning new things
 - 🌱 I’m currently learning python and realted libraries
 - 💞️ I’m looking to collaborate on ...
